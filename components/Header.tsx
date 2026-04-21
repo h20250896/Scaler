@@ -1,5 +1,4 @@
 'use client'
-import { Zap, Github, ExternalLink } from 'lucide-react'
 
 export default function Header() {
   return (
